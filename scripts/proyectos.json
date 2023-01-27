@@ -1,0 +1,15 @@
+[
+    {
+        "titulo": "Willy in-door's",
+        "descripcion": "Página web sencilla, con información y de un proyecto escolar de cultivos in-door automatizados.",
+        "url": "https://tadeomendoza.github.io/WIlly-indoors/",
+        "img" : "../img/Willy.jpg"
+    },
+
+    {
+        "titulo": "API Rick & Morty",
+        "descripcion": "Página para aprender a conectar, traer y mostrar datos de una API",
+        "url": "https://tadeomendoza.github.io/rick-morty-API/",
+        "img" : "../img/rickandmorty.png"
+    }
+]
